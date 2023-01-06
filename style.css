@@ -1,0 +1,11 @@
+.transform{
+    text-transform: lowercase ;
+    text-indent: 40px;
+    text-align: center;
+    width: 500px;
+    white-space: pre;
+    word-break: break-all;
+    font-weight: 580;
+    font-family:  'Moon Dance', cursive;
+    font-size: 90;
+}
